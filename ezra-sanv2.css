@@ -1,0 +1,43 @@
+p {
+  font-family: 'Futura', Fallback, sans-serif;
+  font-size: 20px;
+  color: #b8b894;
+  text-align: center;
+}
+
+body {
+  font-family: 'Futura', Fallback, sans-serif;
+  background-color: black;
+}
+
+@font-face {
+  font-family: 'Futura';
+  src: url(Futura-Medium.woff);
+}
+
+h1 {
+  font-family: 'Futura', Fallback, sans-serif;
+  color: #999966;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Futura', Fallback, sans-serif;
+  color: #33ccff;
+  text-align: center;
+}
+
+h4 {
+  font-family: 'Futura', Fallback, sans-serif;
+  font-size: 9px;
+  color: #33ccff;
+  text-align: center;
+}
+
+ul, li{
+  font-family: 'Futura', Fallback, sans-serif;
+  font-size: 19px;
+  color: #4d4d33;
+  text-align: center;
+  list-style-type: none;
+}
